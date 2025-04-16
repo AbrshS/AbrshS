@@ -1,6 +1,4 @@
-Here's a **high-impact**, **developer-impressing** GitHub profile that showcases your elite skills while keeping it authentic and visually stunning:
 
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Abraham+Shiferaw;%F0%9F%92%BB+Fullstack+Architect;%F0%9F%A7%A0+AI+Solutions+Engineer;%E2%9A%99%EF%B8%8F+Cloud+Native+Specialist;%F0%9F%8E%AF+From+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing animation" />
 </h1>
@@ -10,11 +8,10 @@ Here's a **high-impact**, **developer-impressing** GitHub profile that showcases
   <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Coding time" />
 </div>
 
----
 
-### 🏆 **My Developer Superpowers**
+🏆 My Developer Superpowers
 
-```python
+python
 class FullstackAIEngineer:
     def __init__(self):
         self.name = "Abraham Shiferaw"
@@ -32,9 +29,7 @@ class FullstackAIEngineer:
     
     def solve(self):
         return "Complex problems with elegant code"
-```
 
----
 
 ### 🚀 **Production-Grade Projects**
 
