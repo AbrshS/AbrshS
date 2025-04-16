@@ -8,10 +8,11 @@
   <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Coding time" />
 </div>
 
+---
 
-🏆 My Developer Superpowers
+🏆 **My Developer Superpowers**
 
-python
+```python
 class FullstackAIEngineer:
     def __init__(self):
         self.name = "Abraham Shiferaw"
@@ -29,7 +30,9 @@ class FullstackAIEngineer:
     
     def solve(self):
         return "Complex problems with elegant code"
+```
 
+---
 
 ### 🚀 **Production-Grade Projects**
 
@@ -117,3 +120,5 @@ class FullstackAIEngineer:
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id" alt="Coding vibes" />
 </div>
+```
+
