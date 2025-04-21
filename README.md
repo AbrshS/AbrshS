@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abrshs&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="Profile views counter" /> 
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Coding time" />
+<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Coding time" />  
 </div>
 
 ---
