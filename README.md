@@ -44,11 +44,11 @@ class FullstackAIEngineer:
 > - **AI-powered cheating detection** with custom TensorFlow models
 > - **Zero-downtime deployments** using Kubernetes blue-green strategy
 
-#### 🤖 **African Wildlife AI** | TensorFlow + CV
+#### 🤖 **Football Analysis ** | Yollo + openCv + Python
 [![Research Paper](https://img.shields.io/badge/RESEARCH_PAPER-FF6F00?style=for-the-badge&logo=arxiv)](https://your.paper)
-> - 98.7% accurate animal species classifier
-> - Optimized for edge devices serving rural communities
-> - Featured at NeurIPS 2023 (Emerging Markets Track)
+> - 98.7% accurate speed detector 
+> - Optimized for edge devices focus on ethiopian premier league
+
 
 ---
 
