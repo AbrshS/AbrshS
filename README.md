@@ -2,12 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Abraham+Shiferaw;%F0%9F%92%BB+Fullstack+Architect;%F0%9F%A7%A0+AI+Solutions+Engineer;%E2%9A%99%EF%B8%8F+Cloud+Native+Specialist;%F0%9F%8E%AF+From+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing animation" />
 </h1>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abrshs&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="Profile views counter" /> 
-<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Coding time" />  
-</div>
-
 ---
 
 🏆 **My Developer Superpowers**
@@ -76,7 +70,6 @@ class FullstackAIEngineer:
 <summary><b>🔥 Click to Reveal My Weaponry</b></summary>
   
 ## Programming Languages  
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -107,10 +100,10 @@ class FullstackAIEngineer:
 ### 💼 **Why Work With Me?**
 
 > _"Abraham architected a system that handles 10K+ concurrent users with sub-100ms latency while cutting our cloud costs by 40%"_  
-> **— CTO, Previous Company**
+> **— CEO, Abraham Yohannes**
 
 > _"His AI model outperformed our previous solution by 30% accuracy while requiring 60% less compute resources"_  
-> **— Lead Data Scientist, AI Startup**
+> **— Bio Medical Engineer, Genet G/Mariam**
 
 ---
 
@@ -127,9 +120,5 @@ class FullstackAIEngineer:
     <img src="https://img.shields.io/badge/Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id" alt="Coding vibes" />
-</div>
 ```
 
